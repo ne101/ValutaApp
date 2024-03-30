@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ValutaApp</string>
+    <string name="CharCode">%s:</string>
+    <string name="value">%s ₽</string>
+    <string name="Data">Последнее обновление данных на сервере: %s</string>
+    <string name="reload">Последнее обновление %s</string>
+</resources>
